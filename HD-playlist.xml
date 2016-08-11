@@ -4,18 +4,92 @@
 <thumbnail>https://github.com/Weedhead/HD-Music/blob/master/icon.png</thumbnail>
 </item>
 
-<item>
-<title>Ride Along 2 (2016)</title>
-<meta>
-<content>movie</content>
-<imdb>tt2869728</imdb>
-<title>Ride Along 2</title>
-<year>2016</year>
-</meta>
-<link>
-<sublink>search</sublink>
-<sublink>searchsd</sublink>
-</link>
-<thumbnail>https://image.tmdb.org/t/p/original/lw8hwPexrYajxLmgI2zgwIomD4x.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/rDmdLeNOP8VzvEcRawjZGyrHY2v.jpg</fanart>
-</item>
+<plugin>
+<title>HaleyIsSoarx</title>
+<link>plugin://plugin.video.youtube/channel/UCdS7PjPJnhaxGekVfJpS4ww/</link>
+<thumbnail>http://motherboard-images.vice.com/content-images/contentimage/32057/1459376925217238.jpg</thumbnail>
+</plugin> 
+
+<plugin>
+<title>CustomGrow420</title>
+<link>plugin://plugin.video.youtube/channel/UCuNfQHhJVLi1aXeA6rnnETg/</link>
+<thumbnail>https://coubsecure-a.akamaihd.net/get/b74/p/coub/simple/cw_timeline_pic/7291529cd77/9b52ca1ec1b7319d8e44f/med_1431437762_image.jpg</thumbnail>
+</plugin> 
+
+<plugin>
+<title>Coral Reefer</title>
+<link>plugin://plugin.video.youtube/channel/UCbXLN_CdaexztLvwkB4LpOg/</link>
+<thumbnail>http://www.cannabisculture.com/files/video/6/Screen%20Shot%202013-03-12%20at%205.09.29%20PM.png</thumbnail>
+</plugin> 
+
+<plugin>
+<title>CCC420</title>
+<link>plugin://plugin.video.youtube/channel/UC1Ev2zN7eBStL3TZQHN0Q6A/</link>
+<thumbnail>https://i.ytimg.com/vi/5lsAG-PJUlk/maxresdefault.jpg</thumbnail>
+</plugin> 
+
+<plugin>
+<title>Subcool420</title>
+<link>plugin://plugin.video.youtube/channel/UCp-T_iWV3SmPKZuBh7RVHYQ/</link>
+<thumbnail>https://i.ytimg.com/vi/aVmswDIkCW4/maxresdefault.jpg</thumbnail>
+</plugin>
+
+<plugin>
+<title>Marijuana Man</title>
+<link>plugin://plugin.video.youtube/channel/UCp-T_iWV3SmPKZuBh7RVHYQ/</link>
+<thumbnail>https://i.ytimg.com/vi/p0qckozxQvs/hqdefault.jpg</thumbnail>
+</plugin> 
+
+<plugin>
+<title>Jane Dro</title>
+<link>plugin://plugin.video.youtube/channel/UCrcgjU4xQS7DSF6C6L3eKWQ/</link>
+<thumbnail>https://i.ytimg.com/vi/6NenkIMZLYM/maxresdefault.jpg</thumbnail>
+</plugin> 
+
+<plugin>
+<title>Silenced hippie</title>
+<link>plugin://plugin.video.youtube/channel/UCRtrCzKb_EeFrgEAEqxGRcw/</link>
+<thumbnail>http://66.media.tumblr.com/5d0089a86937c78a1b9e333628175b23/tumblr_ndmh6snBq01tl5cwwo1_1280.jpg</thumbnail>
+</plugin> 
+
+<plugin>
+<title>Theguythatcouldfly</title>
+<link>plugin://plugin.video.youtube/channel/UCYpZlWnqQTgqs1cmW5OaFqA/</link>
+<thumbnail>https://i.ytimg.com/vi/8Z-6U9-DPUo/maxresdefault.jpg</thumbnail>
+</plugin> 
+
+<plugin>
+<title>Metalkush420</title>
+<link>plugin://plugin.video.youtube/channel/UC2ehDsTvw54TPLmHdbA3g0Q/</link>
+<thumbnail>http://workoutpanther.com/wp-content/uploads/2013/12/my-girl-friend-and-i-hitting-2-bongs-attached-together-by-metalkush420-1024x576.jpg</thumbnail>
+</plugin> 
+
+<plugin>
+<title>Soundrone</title>
+<link>plugin://plugin.video.youtube/channel/UCs1ES3KWWSTxSKVBREmFJTQ/</link>
+<thumbnail>https://i.ytimg.com/vi/-1xxsx9QzkY/maxresdefault.jpg</thumbnail>
+</plugin> 
+
+<plugin>
+<title>Citizenjay</title>
+<link>plugin://plugin.video.youtube/channel/UCDPvmFcJQrfdv16X0jkGASQ/</link>
+<thumbnail>http://3.bp.blogspot.com/-kNzAmOp5biQ/U49wu3xFyiI/AAAAAAAAA2Q/eTqEAT5fAa4/s1600/maxresdefault.jpg</thumbnail>
+</plugin>
+
+<plugin>
+<title>Urbanremo</title>
+<link>plugin://plugin.video.youtube/channel/UC3Yb_9nD8lzHGipSOFXwkpQ/</link>
+<thumbnail>http://dopechef.com/wp-content/uploads/2014/10/Urban-Remo-inhales-joint.jpg</thumbnail>
+</plugin> 
+
+<plugin>
+<title>Mark Klokeid</title>
+<link>plugin://plugin.video.youtube/channel/UCABflahYNiVHysAdNSP67aQ/</link>
+<thumbnail>http://www.cannabisculture.com/files/video/71/twgwbomm.jpg</thumbnail>
+</plugin> 
+
+<plugin>
+<title>Crutch 420</title>
+<link>plugin://plugin.video.youtube/channel/UCuIJqlyXu5LCWYyOqYt_A-g/</link>
+<thumbnail>https://i.ytimg.com/vi/uIGsTDJl2Ss/maxresdefault.jpg</thumbnail>
+</plugin> 
