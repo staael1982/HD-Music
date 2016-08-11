@@ -1,5 +1,5 @@
 <item>
 <title>HD Music</title>
-<link>rtmp://rtmp.one.by/HD/ playpath=1muz swfUrl=http://hdstream.one.by/jw/jwplayer.flash.swf pageUrl=http://hdstream.one.by/</link>
+<link>http://hdstream.one.by/</link>
 <thumbnail>https://github.com/Weedhead/HD-Music/blob/master/icon.png</thumbnail>
 </item>
