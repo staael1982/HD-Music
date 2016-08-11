@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="true"?>
-<addon provider-name="Darkzide" version="1.0.0" name="HD Music" id="script.hd.music">
+<addon id="script.hd.music" name="HD Music" version="1.0.0" provider-name="Darkzide">
   <requires>
-    <import version="2.14.0" addon="xbmc.python"/>
+    <import addon="xbmc.python" version="2.14.0"/>
   </requires>
-  <extension library="addon.py" point="xbmc.python.script">
-    <provides>video</provides>
+  <extension point="xbmc.python.script" library="addon.py">
+    <provides>executable</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
     <platform>all</platform>
     <summary lang="en">HD Music</summary>
     <description lang="en">Online Streaming HD Music</description>
     <license>GNU GENERAL PUBLIC LICENSE.v2</license>
-	<language/>
+	<language></language>
     <forum></forum>
     <website></website>
     <email>yourmomma@gmail.com</email>
