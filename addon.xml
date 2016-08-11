@@ -1,21 +1,20 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.addon.id" name="HD Music version="0.0.6" provider-name="Darkzide">
+<?xml version="1.0" encoding="UTF-8" standalone="true"?>
+<addon provider-name="Darkzide" version="1.0.0" name="HD Music" id="script.hd.music">
   <requires>
-    <import addon="xbmc.python" version="2.14.0"/>
+    <import version="2.14.0" addon="xbmc.python"/>
   </requires>
-  <extension point="xbmc.python.pluginsource" library="addon.py">
+  <extension library="addon.py" point="xbmc.python.script">
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en_gb">HD Music</summary>
-    <description lang="en_gb">Online Streaming HD Music</description>
-    <disclaimer lang="en_gb"></disclaimer>
-    <language>en</language>
     <platform>all</platform>
-    <license>GNU GENERAL PUBLIC LICENSE.</license>
+    <summary lang="en">HD Music</summary>
+    <description lang="en">Online Streaming HD Music</description>
+    <license>GNU GENERAL PUBLIC LICENSE.v2</license>
+	<language/>
     <forum></forum>
     <website></website>
-    <email></email>
-    <source></source>
+    <email>yourmomma@gmail.com</email>
+    <source>https://github.com/Weedhead/HD-Music</source>
   </extension>
 </addon>
